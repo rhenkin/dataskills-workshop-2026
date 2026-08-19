@@ -71,10 +71,13 @@ patient_flagged <- patient_flagged |>
 #     yob == 1990 ~ "value1",
 #     yob > 1990 ~ "value2",
 #     yob < 1990 ~ "value3"
+#     TRUE ~ "default_value"
 #   )
 # Use value between double quotes to create a category using text
 # the condition before the tilde is similar to any used in filter() or the
 # right side of mutate
+# Each row that does not match one condition, is tested on the next one 
+# Until the default one (TRUE ~ "default")
 # --
 # Using age_2020 from patient_with_age, classify patient in age bands
 # Use 18-30,31-69,70+ categories
@@ -86,11 +89,11 @@ patient_with_age_group <- patient_with_age |>
   mutate(age_group = case_when(
     condition ~ "category", # Edit from here
     ..,
-    TRUE = "<18" # This is the value for patients 
+    TRUE ~ "<18" # This is the value for patients 
                           # that do no match any previous condition
   ))
 
-# Check: table(patient_with_age_group) prints 6174, 24520 and 10027
+# Check: table(patient_with_age_group$age_group) prints 4941, 6174, 24520 and 10027
 
 # Exercise 5: case_when with multiple variables
 # case_when is not restricted to a single variable in the condition
@@ -100,12 +103,13 @@ patient_with_age_group <- patient_with_age |>
 #  "died" = if emis_ddate is not NA (hint: status and died can be used here too)
 #  "censored" = if emis_ddate is NA and regenddate is before 2020-01-01
 #  "completed" = if emis_ddate is NA and regendddate is NA OR after study end
-# Let's use patient_flagged which already has the variables 'status' and 'died'
+# Let's use the patient_flagged table which already has the variables 'status' and 'died'
+# Hint: the last group does not need any condition tested
 
 patient_flagged <- patient_flagged |>
   mutate()
 
-# Check: table(patient_flagged$followup_status) prints 25871, 16417 and 3374
+# Check: table(patient_flagged$follow_up_status) prints 25871, 16417 and 3374
 
 # Extra challenge: flagging short registration periods
 # We'll later need to reason about how much time passed between two dates,
@@ -114,12 +118,11 @@ patient_flagged <- patient_flagged |>
 # --
 # Using patient_reg_duration from Exercise 1, create a short_reg flag:
 # TRUE if reg_duration is 180 days or fewer, FALSE otherwise
-# Careful: reg_duration is NA for patients who have not ended registration
-# (see Exercise 1) -- short_reg should stay NA for those patients too, not
-# become FALSE. if_else() has an optional missing= argument for this:
-# if_else(condition, true, false, missing = NA)
+# Note: reg_duration is NA for patients who have not ended registration
+# (see Exercise 1) -- short_reg will stay NA for those patients too, not
+# become FALSE.
 patient_reg_duration <- patient_reg_duration |>
   mutate()
 
-# Check: table(patient_reg_duration$short_reg, useNA = "always") shows some
-# TRUE, many more FALSE, and 16188 NA (matching the NA count from Exercise 1)
+# Check: table(patient_reg_duration$short_reg, useNA = "always") shows 3965
+# TRUE, 25509 FALSE, and 16188 NA (matching the NA count from Exercise 1)

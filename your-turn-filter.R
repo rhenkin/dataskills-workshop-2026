@@ -28,7 +28,7 @@ patient_male <- patient |>
 patient_1990 <- patient |>
   filter()
   
-# nrow(patient_1990) should print 11115
+# Check: nrow(patient_1990) should print 11115
 
 # Exercise 2: date comparison
 # Keep only observations recorded 2020 onwards
@@ -36,15 +36,16 @@ patient_1990 <- patient |>
 postcovid_obs <- observation |>
   filter()
 
-# nrow(precovid_obs) should print 46202
+# Check: nrow(postcovid_obs) should print 46202
 
 # Exercise 3: multiple conditions
-# Keep only observations recorded between 2018 and 2020
+# Keep only observations recorded between the start of 2018 and the end 2020
 # Use commas to separate multiple conditions AND
 obs_2020 <- observation |>
   filter()
 
-# nrow(obs_2020) should print 485124
+# Check: nrow(obs_2020) should print 485124
+# alternatively: range(obs_2020$obsdate) to see the minimum and maximum obsdate
 
 # Exercise 4: using %in% to look in a vector/list
 # Useful if our list of things to find is small
@@ -56,7 +57,7 @@ suspect_practices <- c(1, 7, 8)
 suspect_obs <- observation |>
   filter()
 
-# nrow(suspect_obs) should print 881122
+# Check: nrow(suspect_obs) should print 881122
   
 # Exercise 5: missing values
 # In R, an NA value is a missing value
@@ -71,14 +72,15 @@ suspect_obs <- observation |>
 valid_obs <- observation |>
   filter()
 
-# nrow(valid_obs) should print 4485464
+# Check: nrow(valid_obs) should print 4485464
 
 # Exercise 6: combining different types of comparison 
-# Keep only patients alive in 2020 and born between 1950 and 1960
+# Keep only patients alive until the end of 2020 and born between 1950 and 1960
+# Hint: patients alive in 2020 might have died after 2020 or not at all
 patient_example <- patient |>
   filter()
 
-# nrow(patient_example) should print 176
+# Check: nrow(patient_example) should print 4457
 
 # Extra challenge: filter with a small "codelist"
 # Later in the workshop, we identify prescriptions belonging to a drug class

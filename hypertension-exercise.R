@@ -20,10 +20,14 @@ drugissue <- read_tsv("data/DrugIssue.txt", col_types = cols(patid = col_charact
   mutate(issuedate = dmy(issuedate))
 
 # Codelists
-hypertension <- read_tsv("codelists/hypertension.txt")
-ras <- read_tsv("codelists/ras.txt")
-ccb <- read_tsv("codelists/ccb.txt")
-thiazide <- read_tsv("codelists/thiazide.txt")
+hypertension <- read_tsv("codelists/exeter_hypertension.txt", col_types = cols(MedCodeId = col_character())) |>
+  rename(medcodeid = MedCodeId)
+ras <- read_tsv("codelists/exeter_ras.txt", col_types = cols(ProdCodeId = col_character())) |>
+  rename(prodcodeid = ProdCodeId)
+ccb <- read_tsv("codelists/exeter_ccb.txt", col_types = cols(ProdCodeId = col_character())) |>
+  rename(prodcodeid = ProdCodeId)
+thiazide <- read_tsv("codelists/exeter_thiazide.txt", col_types = cols(ProdCodeId = col_character())) |>
+  rename(prodcodeid = ProdCodeId)
 
 # Add class name to codelist file:
 ras <- ras |>

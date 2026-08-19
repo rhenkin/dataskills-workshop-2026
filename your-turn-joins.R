@@ -14,7 +14,7 @@ observation <- read_tsv("data/Observation.txt", col_types = cols(patid = col_cha
   mutate(obsdate = dmy(obsdate))
 drugissue <- read_tsv("data/DrugIssue.txt", col_types = cols(patid = col_character(), prodcodeid = col_character())) |>
   mutate(issuedate = dmy(issuedate))
-ras_codelist <- read_tsv("codelists/ras.txt")
+ras_codelist <- read_tsv("codelists/exeter_ras.txt", col_types = cols(ProdCodeId = col_character()))
 
 # Join operations
 
@@ -101,7 +101,7 @@ observations_after_reg <- observation |>
 # Using the pattern above, find the prescriptions that were issued after
 # the patient's registration start date. Use patient_simple above 
 
-drugissue_after_reg <- drugissue |>
+di_after_reg <- drugissue |>
 
 # Check: nrow(di_after_reg) prints 74012
 

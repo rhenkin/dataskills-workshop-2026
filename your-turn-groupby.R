@@ -44,6 +44,8 @@ product_date_range <- drugissue |>
   group_by() |>
   summarise( , .groups = "drop")
 
+# Check: print(product_date_range) prints three columns: prodcodeid, 
+# and the two columns you created
 
 # Exercise 3: counting distinct objects
 # The example calculated the number of prescriptions issued
@@ -53,8 +55,9 @@ patients_per_prodcode <- drugissue |>
   group_by() |>
   summarise(, .groups = "drop")
 
-
-# Check: head(patients_per_prodcode) shows 6 rows with 30, 11, 1, 248, 6 and 32
+# Check: head(patients_per_prodcode) shows two columns: procodeid and the column you calculated
+# alternatively: pick one prodcode id and filter drugissue by that procodeit and check the unique
+# patids 
 
 # Exercise 4: two grouping variables
 # For each patient and procodeid, find the earliest issue date 
@@ -64,9 +67,8 @@ first_per_patient_prodcode <- drugissue |>
   group_by() |>
   summarise(, .groups = "drop")
 
-# Check: head(first_per_patient_prodcode) prints a table with rows for patients
-# 40, 52 and 193, with dates 2016-09-29, 2016-07-25, 2019-09-03, 2018-06-12,
-# 2020-02-25 and 2018-08-03
+# Check: head(first_per_patient_prodcode) prints a table with four rows
+# for patient 1024, with one date in 2019 and 3 on the same day in 2016
 
 # Exercise 5: using mutate with group by
 # Summarise generates a single row per group
@@ -96,6 +98,9 @@ finer_group <- drugissue |>
   group_by() |>
   mutate()
 
+# Check: colnames(finer_group) should include all drugissue 
+# columns with the addition of first_date_prodcode
+
 # Extra challenge: sequence of events within a group
 # So far we've pulled out the earliest date per group. Sometimes we need to
 # know the ORDER of events for a patient (e.g. which drug was their second
@@ -115,12 +120,12 @@ finer_group <- drugissue |>
 # 2 = second, etc). Ties (same issuedate) can end up in any order.
 drugissue_ordered <- drugissue |>
   arrange(patid, issuedate) |>
-  group_by() |>
+  group_by(patid) |>
   mutate(presc_order = row_number())
 
 # --
 # Using drugissue_ordered, keep only each patient's second ever
-# prescription (presc_order == 2) -- this is the pattern we'll reuse later to
+# prescription -- this is the pattern we'll reuse later to
 # find a patient's second drug class, when checking for treatment escalation
 second_prescriptions <- drugissue_ordered |>
   filter()
@@ -130,6 +135,5 @@ second_prescriptions <- drugissue_ordered |>
 # to ungroup() once you no longer need the grouping, so later steps don't 
 # silently operate per group.
 
-# Check: nrow(second_prescriptions) equals the number of patients who have
-# 2 or more prescriptions in drugissue
+# Check: nrow(second_prescriptions) prints 4643
 

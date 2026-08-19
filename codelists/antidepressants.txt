@@ -1,0 +1,150 @@
+ProdCodeId	DMDCode	TermfromEMIS	ProductName	drugsubstancename	substancestrength	formulation	routeofadministration	bnfcode	DrugIssues
+45841000033119	35901211000001108	Amitriptyline 25mg modified-release capsules	Amitriptyline 25mg modified-release capsules	Amitriptyline hydrochloride	25.000mg	Modified-release capsule	Oral	04030100	82998
+45941000033110	35901511000001106	Amitriptyline 50mg modified-release capsules	Amitriptyline 50mg modified-release capsules	Amitriptyline hydrochloride	50.000mg	Modified-release capsule	Oral	04030100	59393
+55441000033119	35901411000001107	Amitriptyline 25mg/5ml oral solution sugar free	Amitriptyline 25mg/5ml oral solution sugar free	Amitriptyline hydrochloride	5.000mg/1.000ml	Oral solution	Oral	04030100	173150
+55541000033118	35901611000001105	Amitriptyline 50mg/5ml oral solution sugar free	Amitriptyline 50mg/5ml oral solution sugar free	Amitriptyline hydrochloride	10.000mg/1.000ml	Oral solution	Oral	04030100	60909
+60441000033116	42291111000001104	Amitriptyline 10mg tablets	Amitriptyline 10mg tablets	Amitriptyline hydrochloride	10.000mg	Tablet/ Oral Tablet	Oral	04030100	45209647
+60541000033115	42291311000001102	Amitriptyline 50mg tablets	Amitriptyline 50mg tablets	Amitriptyline hydrochloride	50.000mg	Tablet/ Oral Tablet	Oral	04030100	12208323
+60641000033119	42291211000001105	Amitriptyline 25mg tablets	Amitriptyline 25mg tablets	Amitriptyline hydrochloride	25.000mg	Tablet/ Oral Tablet	Oral	04030100	22790875
+60941000033114	42268011000001108	Amoxapine 50mg tablets	Amoxapine 50mg tablets	Amoxapine	50.000mg	Tablet/ Oral Tablet	Oral	04030100	10417
+61041000033116	42206311000001108	Amoxapine 100mg tablets	Amoxapine 100mg tablets	Amoxapine	100.000mg	Tablet/ Oral Tablet	Oral	04030100	4232
+259241000033111	42269411000001107	Citalopram 20mg tablets	Citalopram 20mg tablets	Citalopram hydrobromide	20.000mg	Tablet/ Oral Tablet	Oral	04030300	51998074
+262041000033115	42269711000001101	Clomipramine 10mg capsules	Clomipramine 10mg capsules	Clomipramine hydrochloride	10.000mg	Capsule/ Oral capsule	Oral	04030100	716372
+262141000033116	42269811000001109	Clomipramine 25mg capsules	Clomipramine 25mg capsules	Clomipramine hydrochloride	25.000mg	Capsule/ Oral capsule	Oral	04030100	1083654
+262241000033111	42269911000001104	Clomipramine 50mg capsules	Clomipramine 50mg capsules	Clomipramine hydrochloride	50.000mg	Capsule/ Oral capsule	Oral	04030100	1103769
+284741000033110	4557811000001105	Clomipramine 25mg/5ml oral solution	Clomipramine 25mg/5ml oral solution	Clomipramine hydrochloride	5.000mg/1.000ml	Oral solution	Oral	04030100	7514
+285741000033111	36089111000001109	Clomipramine 75mg modified-release tablets	Clomipramine 75mg modified-release tablets	Clomipramine hydrochloride	75.000mg	Modified-release tablet	Oral	04030100	182222
+473041000033119	42270811000001106	Doxepin 10mg capsules	Doxepin 10mg capsules	Doxepin hydrochloride	10.000mg	Capsule/ Oral capsule	Oral	04030100	98027
+473141000033115	42270911000001101	Doxepin 25mg capsules	Doxepin 25mg capsules	Doxepin hydrochloride	25.000mg	Capsule/ Oral capsule	Oral	04030100	309061
+473241000033110	42271011000001109	Doxepin 50mg capsules	Doxepin 50mg capsules	Doxepin hydrochloride	50.000mg	Capsule/ Oral capsule	Oral	04030100	165903
+473341000033117	42271111000001105	Doxepin 75mg capsules	Doxepin 75mg capsules	Doxepin hydrochloride	75.000mg	Capsule/ Oral capsule	Oral	04030100	59316
+577841000033114	42271711000001106	Fluoxetine 20mg capsules	Fluoxetine 20mg capsules	Fluoxetine hydrochloride	20.000mg	Capsule/ Oral capsule	Oral	04030300	46566071
+579041000033111	42272011000001101	Fluoxetine 60mg capsules	Fluoxetine 60mg capsules	Fluoxetine hydrochloride	60.000mg	Capsule/ Oral capsule	Oral	04030300	625536
+592841000033116	42272411000001105	Fluvoxamine 100mg tablets	Fluvoxamine 100mg tablets	Fluvoxamine maleate	100.000mg	Tablet/ Oral Tablet	Oral	04030300	145093
+595541000033113	42272511000001109	Fluvoxamine 50mg tablets	Fluvoxamine 50mg tablets	Fluvoxamine maleate	50.000mg	Tablet/ Oral Tablet	Oral	04030300	169709
+754241000033115	42295411000001107	Imipramine 25mg tablets	Imipramine 25mg tablets	Imipramine hydrochloride	25.000mg	Tablet/ Oral Tablet	Oral	04030100	1569643
+755541000033119	42295311000001100	Imipramine 10mg tablets	Imipramine 10mg tablets	Imipramine hydrochloride	10.000mg	Tablet/ Oral Tablet	Oral	04030100	431587
+787141000033110	42273411000001101	Isocarboxazid 10mg tablets	Isocarboxazid 10mg tablets	Isocarboxazid	10.000mg	Tablet/ Oral Tablet	Oral	04030200	25820
+849241000033115	36040411000001100	Lofepramine 70mg/5ml oral suspension sugar free	Lofepramine 70mg/5ml oral suspension sugar free	Lofepramine hydrochloride	14.000mg/1.000ml	Oral suspension	Oral	04030100	33027
+850141000033116	39699211000001104	Lofepramine 70mg tablets	Lofepramine 70mg tablets	Lofepramine hydrochloride	70.000mg	Tablet/ Oral Tablet	Oral	04030100	3532400
+870441000033114	42273711000001107	Maprotiline 10mg tablets	Maprotiline 10mg tablets	Maprotiline hydrochloride	10.000mg	Tablet/ Oral Tablet	Oral	04030100	3712
+870741000033119	42273811000001104	Maprotiline 25mg tablets	Maprotiline 25mg tablets	Maprotiline hydrochloride	25.000mg	Tablet/ Oral Tablet	Oral	04030100	13917
+870841000033112	42273911000001109	Maprotiline 50mg tablets	Maprotiline 50mg tablets	Maprotiline hydrochloride	50.000mg	Tablet/ Oral Tablet	Oral	04030100	8510
+870941000033116	42274011000001107	Maprotiline 75mg tablets	Maprotiline 75mg tablets	Maprotiline hydrochloride	75.000mg	Tablet/ Oral Tablet	Oral	04030100	13053
+917541000033110	42274111000001108	Mianserin 10mg tablets	Mianserin 10mg tablets	Mianserin hydrochloride	10.000mg	Tablet/ Oral Tablet	Oral	04030100	93855
+917641000033111	42274211000001102	Mianserin 20mg tablets	Mianserin 20mg tablets	Mianserin hydrochloride	20.000mg	Tablet/ Oral Tablet	Oral	04030100	34740
+917741000033119	42274311000001105	Mianserin 30mg tablets	Mianserin 30mg tablets	Mianserin hydrochloride	30.000mg	Tablet/ Oral Tablet	Oral	04030100	122849
+919641000033115	42274711000001109	Mirtazapine 30mg tablets	Mirtazapine 30mg tablets	Mirtazapine	30.000mg	Tablet/ Oral Tablet	Oral	04030400	15477371
+937241000033118	42274911000001106	Moclobemide 150mg tablets	Moclobemide 150mg tablets	Moclobemide	150.000mg	Tablet/ Oral Tablet	Oral	04030200	143145
+937841000033119	42275011000001106	Moclobemide 300mg tablets	Moclobemide 300mg tablets	Moclobemide	300.000mg	Tablet/ Oral Tablet	Oral	04030200	53269
+966141000033116	42275111000001107	Nefazodone 100mg tablets	Nefazodone 100mg tablets	Nefazodone hydrochloride	100.000mg	Tablet/ Oral Tablet	Oral	04030400	75712
+966241000033111	42275211000001101	Nefazodone 200mg tablets	Nefazodone 200mg tablets	Nefazodone hydrochloride	200.000mg	Tablet/ Oral Tablet	Oral	04030400	84861
+979241000033110	38285811000001101	Nortriptyline 10mg capsules	Nortriptyline 10mg capsules	Nortriptyline hydrochloride	10.000mg	Capsule/ Oral capsule	Oral	04030100	9056
+979341000033117	38285911000001106	Nortriptyline 25mg capsules	Nortriptyline 25mg capsules	Nortriptyline hydrochloride	25.000mg	Capsule/ Oral capsule	Oral	04030100	8092
+989141000033111	39701411000001105	Nortriptyline 10mg tablets	Nortriptyline 10mg tablets	Nortriptyline hydrochloride	10.000mg	Tablet/ Oral Tablet	Oral	04030100	2381867
+989241000033116	39701511000001109	Nortriptyline 25mg tablets	Nortriptyline 25mg tablets	Nortriptyline hydrochloride	25.000mg	Tablet/ Oral Tablet	Oral	04030100	1035296
+1042141000033117	42276511000001105	Paroxetine 20mg tablets	Paroxetine 20mg tablets	Paroxetine hydrochloride	20.000mg	Tablet/ Oral Tablet	Oral	04030300	12258580
+1042241000033112	42276611000001109	Paroxetine 30mg tablets	Paroxetine 30mg tablets	Paroxetine hydrochloride	30.000mg	Tablet/ Oral Tablet	Oral	04030300	3176994
+1079341000033111	42277211000001109	Phenelzine 15mg tablets	Phenelzine 15mg tablets	Phenelzine sulfate	15.000mg	Tablet/ Oral Tablet	Oral	04030200	174388
+1165641000033115	39703311000001102	Reboxetine 4mg tablets	Reboxetine 4mg tablets	Reboxetine mesilate	4.000mg	Tablet/ Oral Tablet	Oral	04030400	340408
+1278741000033112	39704011000001103	Sertraline 100mg tablets	Sertraline 100mg tablets	Sertraline hydrochloride	100.000mg	Tablet/ Oral Tablet	Oral	04030300	31458270
+1278841000033119	39704111000001102	Sertraline 50mg tablets	Sertraline 50mg tablets	Sertraline hydrochloride	50.000mg	Tablet/ Oral Tablet	Oral	04030300	40592299
+1454641000033112	42280711000001105	Trazodone 50mg capsules	Trazodone 50mg capsules	Trazodone hydrochloride	50.000mg	Capsule/ Oral capsule	Oral	04030100	3093427
+1454741000033115	42281111000001103	Trimipramine 50mg capsules	Trimipramine 50mg capsules	Trimipramine maleate	50.000mg	Capsule/ Oral capsule	Oral	04030100	473384
+1455241000033113	42280411000001104	Trazodone 100mg capsules	Trazodone 100mg capsules	Trazodone hydrochloride	100.000mg	Capsule/ Oral capsule	Oral	04030100	2019998
+1461941000033113	3909411000001104	Trazodone 50mg/5ml oral solution sugar free	Trazodone 50mg/5ml oral solution sugar free	Trazodone hydrochloride	10.000mg/1.000ml	Oral solution	Oral	04030100	374237
+1462241000033110	4557211000001109	Trazodone 150mg modified-release tablets	Trazodone 150mg modified-release tablets	Trazodone hydrochloride	150.000mg	Modified-release tablet	Oral	04030100	10476
+1469441000033116	39708811000001101	Tranylcypromine 10mg tablets	Tranylcypromine 10mg tablets	Tranylcypromine sulfate	10.000mg	Tablet/ Oral Tablet	Oral	04030200	100509
+1471341000033116	42280911000001107	Trimipramine 10mg tablets	Trimipramine 10mg tablets	Trimipramine maleate	10.000mg	Tablet/ Oral Tablet	Oral	04030100	133108
+1471441000033110	42281011000001104	Trimipramine 25mg tablets	Trimipramine 25mg tablets	Trimipramine maleate	25.000mg	Tablet/ Oral Tablet	Oral	04030100	403487
+1473641000033113	42280611000001101	Trazodone 150mg tablets	Trazodone 150mg tablets	Trazodone hydrochloride	150.000mg	Tablet/ Oral Tablet	Oral	04030100	1517662
+1474141000033117	41989911000001101	Tryptophan 500mg tablets	Tryptophan 500mg tablets	Tryptophan	500.000mg	Tablet/ Oral Tablet	Oral	04030400	38967
+1509241000033110	38750411000001106	Venlafaxine 150mg modified-release capsules	Venlafaxine 150mg modified-release capsules	Venlafaxine hydrochloride	150.000mg	Modified-release capsule	Oral	04030400	4297428
+1509341000033117	38750311000001104	Venlafaxine 75mg modified-release capsules	Venlafaxine 75mg modified-release capsules	Venlafaxine hydrochloride	75.000mg	Modified-release capsule	Oral	04030400	5279761
+1512241000033119	39707611000001104	Venlafaxine 37.5mg tablets	Venlafaxine 37.5mg tablets	Venlafaxine hydrochloride	37.500mg	Tablet/ Oral Tablet	Oral	04030400	3717828
+1512341000033112	39707411000001102	Venlafaxine 75mg tablets	Venlafaxine 75mg tablets	Venlafaxine hydrochloride	75.000mg	Tablet/ Oral Tablet	Oral	04030400	3921658
+1512441000033118	39707311000001109	Venlafaxine 50mg tablets	Venlafaxine 50mg tablets	Venlafaxine hydrochloride	50.000mg	Tablet/ Oral Tablet	Oral	04030400	27524
+1583141000033116	42269511000001106	Citalopram 40mg tablets	Citalopram 40mg tablets	Citalopram hydrobromide	40.000mg	Tablet/ Oral Tablet	Oral	04030300	11709428
+1583341000033118	42269311000001100	Citalopram 10mg tablets	Citalopram 10mg tablets	Citalopram hydrobromide	10.000mg	Tablet/ Oral Tablet	Oral	04030300	23936010
+1662441000033114	36565911000001109	Paroxetine 10mg/5ml oral suspension sugar free	Paroxetine 10mg/5ml oral suspension sugar free	Paroxetine hydrochloride	2.000mg/1.000ml	Oral suspension	Oral	04030300	213418
+1900641000033112	42269611000001105	Citalopram 40mg/ml oral drops sugar free	Citalopram 40mg/ml oral drops sugar free	Citalopram hydrochloride	40.000mg/1.000ml	Oral drops	Oral	04030300	448295
+2749541000033116	42271211000001104	Escitalopram 10mg tablets	Escitalopram 10mg tablets	Escitalopram oxalate	10.000mg	Tablet/ Oral Tablet	Oral	04030300	4442524
+2770641000033114	42271811000001103	Fluoxetine 20mg/5ml oral solution	Fluoxetine 20mg/5ml oral solution	Fluoxetine hydrochloride	4.000mg/1.000ml	Oral solution	Oral	04030300	804413
+2951341000033116	42271311000001107	Escitalopram 20mg tablets	Escitalopram 20mg tablets	Escitalopram oxalate	20.000mg	Tablet/ Oral Tablet	Oral	04030300	2746300
+2974841000033114	42274611000001100	Mirtazapine 30mg orodispersible tablets	Mirtazapine 30mg orodispersible tablets	Mirtazapine	30.000mg	Orodispersible tablet	Oral	04030400	1255794
+3029641000033112	42274411000001103	Mirtazapine 15mg orodispersible tablets	Mirtazapine 15mg orodispersible tablets	Mirtazapine	15.000mg	Orodispersible tablet	Oral	04030400	1561941
+3029741000033115	5627911000001100	Mirtazapine 45mg orodispersible tablets	Mirtazapine 45mg orodispersible tablets	Mirtazapine	45.000mg	Orodispersible tablet	Oral	04030400	1423572
+3030341000033110	42271411000001100	Escitalopram 5mg tablets	Escitalopram 5mg tablets	Escitalopram oxalate	5.000mg	Tablet/ Oral Tablet	Oral	04030300	1541666
+3058741000033113	9103511000001102	Mirtazapine 15mg/ml oral solution sugar free	Mirtazapine 15mg/ml oral solution sugar free	Mirtazapine	15.000mg/1.000ml	Oral solution	Oral	04030400	43779
+3088941000033118	42270611000001107	Dosulepin 25mg capsules	Dosulepin 25mg capsules	Dosulepin hydrochloride	25.000mg	Capsule/ Oral capsule	Oral	04030100	7352138
+3089041000033110	42270711000001103	Dosulepin 75mg tablets	Dosulepin 75mg tablets	Dosulepin hydrochloride	75.000mg	Tablet/ Oral Tablet	Oral	04030100	7493949
+3089141000033114	8454311000001101	Dosulepin 25mg/5ml oral solution	Dosulepin 25mg/5ml oral solution	Dosulepin hydrochloride	5.000mg/1.000ml	Oral solution	Oral	04030100	10154
+3089241000033119	8454111000001103	Dosulepin 75mg/5ml oral solution	Dosulepin 75mg/5ml oral solution	Dosulepin hydrochloride	15.000mg/1.000ml	Oral solution	Oral	04030100	6333
+3091041000033110	39692311000001104	Flupentixol 1mg tablets	Flupentixol 1mg tablets	Flupentixol dihydrochloride	1.000mg	Tablet/ Oral Tablet	Oral	04030400	503608
+3091141000033114	39692511000001105	Flupentixol 500microgram tablets	Flupentixol 500microgram tablets	Flupentixol dihydrochloride	500.000microgram	Tablet/ Oral Tablet	Oral	04030400	687525
+3179941000033111	39692911000001103	Nortriptyline 10mg / Fluphenazine 500microgram tablets	Nortriptyline 10mg / Fluphenazine 500microgram tablets	Fluphenazine hydrochloride/ Nortriptyline hydrochloride	500.000microgram + 10.000mg	Tablet/ Oral Tablet	Oral	04030100	15618
+3180441000033118	39731811000001104	Amitriptyline 25mg / Perphenazine 2mg tablets	Amitriptyline 25mg / Perphenazine 2mg tablets	Amitriptyline hydrochloride/ Perphenazine	25.000mg + 2.000mg	Tablet/ Oral Tablet	Oral	04030100	23196
+3180541000033117	39731711000001107	Amitriptyline 10mg / Perphenazine 2mg tablets	Amitriptyline 10mg / Perphenazine 2mg tablets	Amitriptyline hydrochloride/ Perphenazine	10.000mg + 2.000mg	Tablet/ Oral Tablet	Oral	04030100	9124
+3226641000033111	42294111000001101	Duloxetine 30mg gastro-resistant capsules	Duloxetine 30mg gastro-resistant capsules	Duloxetine hydrochloride	30.000mg	Gastro-resistant capsule	Oral	04030400	3613599
+3226741000033119	42294211000001107	Duloxetine 60mg gastro-resistant capsules	Duloxetine 60mg gastro-resistant capsules	Duloxetine hydrochloride	60.000mg	Gastro-resistant capsule	Oral	04030400	6790878
+3256741000033118	42274511000001104	Mirtazapine 15mg tablets	Mirtazapine 15mg tablets	Mirtazapine	15.000mg	Tablet/ Oral Tablet	Oral	04030400	15454436
+3256841000033111	42274811000001101	Mirtazapine 45mg tablets	Mirtazapine 45mg tablets	Mirtazapine	45.000mg	Tablet/ Oral Tablet	Oral	04030400	11634143
+3928841000033110	10364811000001108	Escitalopram 10mg/ml oral drops sugar free	Escitalopram 10mg/ml oral drops sugar free	Escitalopram oxalate	10.000mg/1.000ml	Oral drops	Oral	04030300	6224
+4079041000033115	39701911000001102	Paroxetine 10mg tablets	Paroxetine 10mg tablets	Paroxetine hydrochloride	10.000mg	Tablet/ Oral Tablet	Oral	04030300	734747
+4148341000033116	8721911000001107	Sertraline 50mg/5ml oral suspension	Sertraline 50mg/5ml oral suspension	Sertraline hydrochloride	10.000mg/1.000ml	Oral suspension	Oral	04030300	35839
+4431541000033115	8377611000001108	Clomipramine 50mg/5ml oral suspension	Clomipramine 50mg/5ml oral suspension	Clomipramine hydrochloride	10.000mg/1.000ml	Oral suspension	Oral	04030100	686
+4498541000033116	8722711000001103	Venlafaxine 37.5mg/5ml oral suspension	Venlafaxine 37.5mg/5ml oral suspension	Venlafaxine hydrochloride	7.500mg/1.000ml	Oral suspension	Oral	04030400	3091
+4823541000033110	14985011000001107	Venlafaxine 75mg modified-release tablets	Venlafaxine 75mg modified-release tablets	Venlafaxine hydrochloride	75.000mg	Modified-release tablet	Oral	04030400	1920417
+4823641000033111	14984911000001107	Venlafaxine 150mg modified-release tablets	Venlafaxine 150mg modified-release tablets	Venlafaxine hydrochloride	150.000mg	Modified-release tablet	Oral	04030400	2191159
+4954041000033114	8484811000001101	Doxepin 50mg/5ml oral solution	Doxepin 50mg/5ml oral solution	Doxepin hydrochloride	10.000mg/1.000ml	Oral solution	Oral	04030100	265
+5008041000033112	14018011000001106	Venlafaxine 75mg/5ml oral solution	Venlafaxine 75mg/5ml oral solution	Venlafaxine hydrochloride	15.000mg/1.000ml	Oral solution	Oral	04030400	3801
+5052741000033119	15439111000001107	Venlafaxine 225mg modified-release tablets	Venlafaxine 225mg modified-release tablets	Venlafaxine hydrochloride	225.000mg	Modified-release tablet	Oral	04030400	1128741
+5077041000033116	15499111000001100	Agomelatine 25mg tablets	Agomelatine 25mg tablets	Agomelatine	25.000mg	Tablet/ Oral Tablet	Oral	04030400	112742
+5128541000033119	15499311000001103	Escitalopram 20mg/ml oral drops sugar free	Escitalopram 20mg/ml oral drops sugar free	Escitalopram oxalate	20.000mg/1.000ml	Oral drops	Oral	04030300	16745
+5328741000033117	36046511000001104	Imipramine 25mg/5ml oral solution	Imipramine 25mg/5ml oral solution	Imipramine hydrochloride	5.000mg/1.000ml	Oral solution	Oral	04030100	5197
+5454141000033118	16423411000001100	Imipramine 25mg/5ml oral solution sugar free	Imipramine 25mg/5ml oral solution sugar free	Imipramine hydrochloride	5.000mg/1.000ml	Oral solution	Oral	04030100	2844
+5490141000033118	13892411000001104	Amitriptyline 10mg/5ml oral solution	Amitriptyline 10mg/5ml oral solution	Amitriptyline hydrochloride	2.000mg/1.000ml	Oral solution	Oral	04030100	5369
+5749441000033115	11590211000001106	Fluoxetine 20mg/5ml oral solution sugar free	Fluoxetine 20mg/5ml oral solution sugar free	Fluoxetine hydrochloride	4.000mg/1.000ml	Oral solution	Oral	04030300	115178
+5888641000033118	8277811000001102	Amitriptyline 10mg/5ml oral suspension	Amitriptyline 10mg/5ml oral suspension	Amitriptyline hydrochloride	2.000mg/1.000ml	Oral suspension	Oral	04030100	580
+5891041000033116	8454211000001109	Dosulepin 25mg/5ml oral suspension	Dosulepin 25mg/5ml oral suspension	Dosulepin hydrochloride	5.000mg/1.000ml	Oral suspension	Oral	04030100	49
+5975341000033119	8721711000001105	Sertraline 100mg/5ml oral suspension	Sertraline 100mg/5ml oral suspension	Sertraline hydrochloride	20.000mg/1.000ml	Oral suspension	Oral	04030300	7612
+5992241000033114	8454011000001104	Dosulepin 75mg/5ml oral suspension	Dosulepin 75mg/5ml oral suspension	Dosulepin hydrochloride	15.000mg/1.000ml	Oral suspension	Oral	04030100	46
+5996641000033111	12812711000001104	Lofepramine 70mg/5ml oral solution	Lofepramine 70mg/5ml oral solution	Lofepramine hydrochloride	14.000mg/1.000ml	Oral solution	Oral	04030100	121
+5996741000033119	12812811000001107	Lofepramine 70mg/5ml oral suspension	Lofepramine 70mg/5ml oral suspension	Lofepramine hydrochloride	14.000mg/1.000ml	Oral suspension	Oral	04030100	158
+6000441000033115	14017911000001109	Venlafaxine 37.5mg/5ml oral solution	Venlafaxine 37.5mg/5ml oral solution	Venlafaxine hydrochloride	7.500mg/1.000ml	Oral solution	Oral	04030400	934
+6161741000033111	18765111000001101	Venlafaxine 37.5mg modified-release tablets	Venlafaxine 37.5mg modified-release tablets	Venlafaxine hydrochloride	37.500mg	Modified-release tablet	Oral	04030400	341916
+6496341000033116	42271611000001102	Fluoxetine 10mg tablets	Fluoxetine 10mg tablets	Fluoxetine hydrochloride	10.000mg	Tablet/ Oral Tablet	Oral	04030300	55380
+8247941000033115	21781311000001109	Tryptophan 500mg capsules	Tryptophan 500mg capsules	Tryptophan	500.000mg	Capsule/ Oral capsule	Oral	04030400	6802
+8867941000033118	14018111000001107	Venlafaxine 75mg/5ml oral suspension	Venlafaxine 75mg/5ml oral suspension	Venlafaxine hydrochloride	15.000mg/1.000ml	Oral suspension	Oral	04030400	397
+8885441000033118	23560511000001101	Venlafaxine 37.5mg modified-release capsules	Venlafaxine 37.5mg modified-release capsules	Venlafaxine hydrochloride	37.500mg	Modified-release capsule	Oral	04030400	292842
+9120641000033112	24407811000001108	Fluoxetine 20mg dispersible tablets sugar free	Fluoxetine 20mg dispersible tablets sugar free	Fluoxetine hydrochloride	20.000mg	Dispersible tablet/	Oral	04030300	69269
+10332441000033118	29686711000001103	Amitriptyline 10mg/5ml oral solution sugar free	Amitriptyline 10mg/5ml oral solution sugar free	Amitriptyline hydrochloride	2.000mg/1.000ml	Oral solution	Oral	04030100	16264
+10616941000033112	30738811000001109	Vortioxetine 5mg tablets	Vortioxetine 5mg tablets	Vortioxetine hydrobromide	5.000mg	Tablet/ Oral Tablet	Oral	04030400	127970
+10617041000033113	30738611000001105	Vortioxetine 10mg tablets	Vortioxetine 10mg tablets	Vortioxetine hydrobromide	10.000mg	Tablet/ Oral Tablet	Oral	04030400	252672
+10617141000033112	30738711000001101	Vortioxetine 20mg tablets	Vortioxetine 20mg tablets	Vortioxetine hydrobromide	20.000mg	Tablet/ Oral Tablet	Oral	04030400	179700
+10730041000033110	31016011000001103	Venlafaxine 225mg modified-release capsules	Venlafaxine 225mg modified-release capsules	Venlafaxine hydrochloride	225.000mg	Modified-release capsule	Oral	04030400	197586
+11072841000033114	15000611000001107	Nortriptyline 10mg/5ml oral solution	Nortriptyline 10mg/5ml oral solution	Nortriptyline hydrochloride	2.000mg/1.000ml	Oral solution	Oral	04030100	123
+11603841000033119	42271511000001101	Fluoxetine 10mg capsules	Fluoxetine 10mg capsules	Fluoxetine hydrochloride	10.000mg	Capsule/ Oral capsule	Oral	04030300	288182
+11707441000033119	32960811000001102	Fluoxetine 30mg capsules	Fluoxetine 30mg capsules	Fluoxetine hydrochloride	30.000mg	Capsule/ Oral capsule	Oral	04030300	137609
+11707541000033118	42271911000001108	Fluoxetine 40mg capsules	Fluoxetine 40mg capsules	Fluoxetine hydrochloride	40.000mg	Capsule/ Oral capsule	Oral	04030300	326120
+11755441000033119	42276711000001100	Paroxetine 40mg tablets	Paroxetine 40mg tablets	Paroxetine hydrochloride	40.000mg	Tablet/ Oral Tablet	Oral	04030300	88968
+12257841000033117	15000711000001103	Nortriptyline 10mg/5ml oral suspension	Nortriptyline 10mg/5ml oral suspension	Nortriptyline hydrochloride	2.000mg/1.000ml	Oral suspension	Oral	04030100	67
+12292341000033116	34034111000001108	Nortriptyline 50mg tablets	Nortriptyline 50mg tablets	Nortriptyline hydrochloride	50.000mg	Tablet/ Oral Tablet	Oral	04030100	38402
+12476541000033119	35113311000001104	Trazodone 100mg/5ml oral solution sugar free	Trazodone 100mg/5ml oral solution sugar free	Trazodone hydrochloride	20.000mg/1.000ml	Oral solution	Oral	04030100	2023
+12900941000033117	13045911000001105	Sertraline 25mg/5ml oral suspension	Sertraline 25mg/5ml oral suspension	Sertraline hydrochloride	5.000mg/1.000ml	Oral suspension	Oral	04030300	919
+13300841000033111	37868911000001103	Nortriptyline 10mg/5ml oral solution sugar free	Nortriptyline 10mg/5ml oral solution sugar free	Nortriptyline hydrochloride	2.000mg/1.000ml	Oral solution	Oral	04030100	282
+13300941000033115	37869011000001107	Nortriptyline 25mg/5ml oral solution sugar free	Nortriptyline 25mg/5ml oral solution sugar free	Nortriptyline hydrochloride	5.000mg/1.000ml	Oral solution	Oral	04030100	83
+13318341000033119	38003311000001102	Venlafaxine 300mg modified-release tablets	Venlafaxine 300mg modified-release tablets	Venlafaxine hydrochloride	300.000mg	Modified-release tablet	Oral	04030400	52059
+13444241000033119	42280811000001102	Trazodone 50mg tablets	Trazodone 50mg tablets	Trazodone hydrochloride	50.000mg	Tablet/ Oral Tablet	Oral	04030100	25492
+13444341000033112	42280511000001100	Trazodone 100mg tablets	Trazodone 100mg tablets	Trazodone hydrochloride	100.000mg	Tablet/ Oral Tablet	Oral	04030100	8990
+13719241000033117	38976911000001105	Phenelzine 15mg capsules	Phenelzine 15mg capsules	Phenelzine sulfate	15.000mg	Capsule/ Oral capsule	Oral	04030200	427
+13743641000033113	39134011000001104	Sertraline 25mg tablets	Sertraline 25mg tablets	Sertraline hydrochloride	25.000mg	Tablet/ Oral Tablet	Oral	04030300	293075
+13898641000033112	39964811000001101	Duloxetine 90mg gastro-resistant capsules	Duloxetine 90mg gastro-resistant capsules	Duloxetine hydrochloride	90.000mg	Gastro-resistant capsule	Oral	04030400	52618
+13898741000033115	39964711000001109	Duloxetine 120mg gastro-resistant capsules	Duloxetine 120mg gastro-resistant capsules	Duloxetine hydrochloride	120.000mg	Gastro-resistant capsule	Oral	04030400	24397
+13916241000033115	40111011000001106	Venlafaxine 37.5mg/5ml oral solution sugar free	Venlafaxine 37.5mg/5ml oral solution sugar free	Venlafaxine hydrochloride	7.500mg/1.000ml	Oral solution	Oral	04030400	799
+13916341000033113	40111111000001107	Venlafaxine 75mg/5ml oral solution sugar free	Venlafaxine 75mg/5ml oral solution sugar free	Venlafaxine hydrochloride	15.000mg/1.000ml	Oral solution	Oral	04030400	1360
+14116141000033111	41166911000001105	Sertraline 150mg tablets	Sertraline 150mg tablets	Sertraline hydrochloride	150.000mg	Tablet/ Oral Tablet	Oral	04030300	24885
+14116241000033116	41167011000001109	Sertraline 200mg tablets	Sertraline 200mg tablets	Sertraline hydrochloride	200.000mg	Tablet/ Oral Tablet	Oral	04030300	16153
+14183941000033115	41535111000001102	Fluoxetine 20mg/5ml oral suspension	Fluoxetine 20mg/5ml oral suspension	Fluoxetine hydrochloride	4.000mg/1.000ml	Oral suspension	Oral	04030300	9
+14190441000033119	41557011000001106	Sertraline 100mg/5ml concentrate for oral solution sugar free	Sertraline 100mg/5ml concentrate for oral solution sugar free	Sertraline hydrochloride	20.000mg/1.000ml	Oral solution/ Concentrate for oral solution	Oral	04030300	5977
+14507641000033111	43159711000001104	Sertraline 50mg/5ml oral suspension sugar free	Sertraline 50mg/5ml oral suspension sugar free	Sertraline hydrochloride	10.000mg/1.000ml	Oral suspension	Oral	04030300	196
